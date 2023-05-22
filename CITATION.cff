@@ -1,1 +1,20 @@
-
+cff-version: 1.2.0
+type: dataset
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: "Chung Hoon"
+  given-names: "Hong"
+  orcid: "https://orcid.org/0009-0005-9095-6333"
+- family-names: "Huang"
+  given-names: "Tianyu"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Wivagg"
+  given-names: "Carl"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Shimizu"
+  given-names: "Kanna"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Open dataset used in Record Deduplication for Entity Distribution Modeling in ASR Transcripts"
+version: 2.0.4
+date-released: 2023-05-22
+url: "https://github.com/recorddeduplication/recorddeduplication"
