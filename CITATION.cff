@@ -15,6 +15,6 @@ authors:
   given-names: "Kanna"
   orcid: "https://orcid.org/0000-0000-0000-0000"
 title: "Open dataset used in Record Deduplication for Entity Distribution Modeling in ASR Transcripts"
-version: 2.0.4
+version: 1.0.0
 date-released: 2023-05-22
 url: "https://github.com/recorddeduplication/recorddeduplication"
